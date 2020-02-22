@@ -24,8 +24,8 @@ store the current number as a key in the hashtable with the index as the value.
 If it is return the value in the hashtable and the current index.
 
 
-Time Complexity => O(n^2)
-Space Complexity => O(1)
+Time Complexity => O(n)
+Space Complexity => O(n)
 '''
 
 
